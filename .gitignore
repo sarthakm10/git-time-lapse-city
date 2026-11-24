@@ -1,0 +1,11 @@
+GIT_CITY_PROJECT_BRIEF.md
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+### Environment & Secrets 
+.env
+.env.local
+.env.*.local
